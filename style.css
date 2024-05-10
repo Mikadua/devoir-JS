@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #007bff;
+}
+.invisible {
+  display: none;
+}
+
+ul {
+  display: flex;
+  padding: 25px;
+}
+li {
+  margin-inline-end: 125px;
+  list-style-type: none;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+h1 {
+  text-align: center;
+}
+div {
+  display: flex;
+}
+.text {
+  align-items: center;
+  padding: 60px;
+  font-size: 25px;
+}
